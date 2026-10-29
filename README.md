@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,35:0B6E4F,70:19A974,100:7CFFB2&height=210&section=header&text=MOHAMMED%20ADIL&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20%7C%20Embedded%20%7C%20IoT&descSize=16&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/mohammedadil456/mohammedadil456/main/assets/profile-banner.svg" alt="Mohammed Adil — ECE, Embedded Systems and IoT" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=45E6A0&center=true&vCenter=true&width=850&lines=ECE+Undergraduate+%40+KPRIET;Embedded+Systems+%7C+IoT+%7C+Microcontrollers;Building+hardware+that+solves+real+problems;Learning%2C+prototyping%2C+and+improving+every+day" alt="Animated typing introduction" />
