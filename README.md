@@ -95,6 +95,20 @@ A hardware-oriented project concept using an **STM32** microcontroller to monito
 
 ---
 
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedadil456/mohammedadil456/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedadil456/mohammedadil456/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/mohammedadil456/mohammedadil456/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🎯 Current Learning Path
 
 ```text
